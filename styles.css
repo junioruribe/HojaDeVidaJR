@@ -39,6 +39,7 @@ font-weight: 700px;
 font-size: 17px;
 line-height: 24px;
 padding-left: 17px;
+background-color: rgb(252, 251, 251);
 }
 .lista-experiencia{
     font-style: normal;
@@ -94,11 +95,11 @@ padding-left: 17px;
 }
 
 .proyectos{
-    background-color: rgb(255, 253, 253);
+    background-color: rgb(252, 251, 251);
 }
 
 .experiencia-laboral{
-background-color: rgb(255, 249, 249);
+background-color: rgb(252, 251, 251);
 font-size: 16px;
 font-weight: 500px;
 padding-left: 20px;
@@ -145,13 +146,25 @@ line-height:24px;
 }
 
 .lista-lateral{
-    padding-left: 17px;
-}
+    padding-left: 5px;
+    color: rgb(215, 153, 6);
+}   
 
 .lista-lateral > li{
     color: rgb(215, 153, 6);
 }
 
+.lista-2{
+    color: rgb(245, 245, 245);
+}
+
+.certificado{
+    color: rgb(255, 253, 250);
+}
+
+.lista-link{
+    color: rgb(28, 62, 134);
+}
 .elemento-lista-lateral{
     color: white;
     font-style: normal;
